@@ -1,0 +1,22 @@
+.box .text1 {
+  color: green;
+}
+.box .text1 span {
+  color: green;
+}
+.box .text2 {
+  color: red;
+}
+
+.btn {
+  background-color: green;
+}
+.btn:hover {
+  background-color: red;
+}
+.btn:hover span {
+  color: orange;
+}
+.btn-number {
+  color: aqua;
+}/*# sourceMappingURL=style.css.map */

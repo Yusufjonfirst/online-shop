@@ -1,0 +1,24 @@
+$main-color: green;
+.box {
+  .text1 {
+    color: $main-color;
+    span {
+      color: green;
+    }
+  }
+  .text2 {
+    color: red;
+  }
+}
+.btn {
+  background-color: $main-color;
+  &:hover {
+    background-color: red;
+    span {
+      color: orange;
+    }
+  }
+  &-number {
+    color: aqua;
+  }
+}
